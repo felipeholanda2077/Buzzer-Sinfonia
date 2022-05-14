@@ -9,6 +9,8 @@
 <a href="#Tecnologias-">Tecnologias</a> •
 <a href="#Ferramentas">Ferramentas</a></p>
 
+<br>
+
 <h1 align="center">Sobre o Projeto</h1>
 
 <h3 align="center">Buzzer-Sinfonia</h3>
