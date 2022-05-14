@@ -4,5 +4,12 @@
    </a>
 </p>
 
-<h1 align="center">Buzzer-Sinfonia</h1>
+<p align="center">Índice<br>
+<a href="#-sobre-o-projeto-">Sobre</a> •
+<a href="#Tecnologias-">Tecnologias</a> •
+<a href="#Ferramentas">Ferramentas</a></p>
+
+<h1 align="center">Sobre o Projeto</h1>
+
+<h3 align="center">Buzzer-Sinfonia</h3>
 <p align="center">Sinfonia de Buzzer Arduino pode ser utilizado também com dispositivos de audio com alto-falantes, projeto pessoal.</p>
